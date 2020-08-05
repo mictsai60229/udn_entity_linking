@@ -1,0 +1,5 @@
+django
+tensorflow==1.15
+ckiptagger[tf,gdown]
+beautifulsoup4
+opencc-python-reimplemented
