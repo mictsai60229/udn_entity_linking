@@ -29,3 +29,7 @@ Put all directories in google drive into data directory.
 ```
 python manage.py runserver 0.0.0.0:5487
 ```
+
+### Create data/ned
+
+To create ned data, please refer [the project](https://github.com/mictsai60229/ner_wiki)
